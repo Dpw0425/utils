@@ -1,3 +1,3 @@
 .idea
-./server/config/config.toml
-./temp
+config.toml
+temp

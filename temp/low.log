@@ -1,2 +1,0 @@
-2024-04-15T08:30:33.279+0800	[34mINFO[0m	logger/logger.go:64	读取配置成功！
-2024-04-15T08:30:33.593+0800	[34mINFO[0m	logger/logger.go:64	连接 Mysql 成功: root:tc.524030@tcp(59.110.137.58:3310)/utils?charset=utf8mb4&parseTime=True&loc=Local&allowNativePasswords=true
